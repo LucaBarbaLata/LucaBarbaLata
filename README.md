@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a private project <br>🤝 I’m looking for help with turning Figma Projects into code<br>🌱 I’m currently learning about networking
+🔭 I’m currently working on Montrias <br>🤝 I’m looking for help with UI skills for CC :D <br>🌱 I’m currently learning about networking
 
 
 ## 🌐 Socials:
